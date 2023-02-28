@@ -56,23 +56,30 @@ The main tools used for developing this application are Firebase and React.
 
 這是最一開始的畫面，需要由一個人先創立一個房間。
 This is the initial screen where one person needs to create a room.
+
 ![](https://i.imgur.com/qlcl4P9.png)
 
 創建完房間你就會是房主，可以點擊上面的 Fork 圖案可以複製連結。房主可以選擇這場要淘汰多少人。
 After creating a room, you will become the host and can click the fork icon above to copy the link.The host can choose how many players will be eliminated in this round.
+
 ![](https://i.imgur.com/bF01HdL.png)
 
 別人取暱稱就可以加入房間。可以點擊別人將他們踢掉。但房主不能踢，房主退出房間就會消失。
 Others can join the room by entering a nickname. You can click on others to kick them out of the room, except for the room owner who cannot be kicked. If the room owner leaves the room, the room will disappear.
+
 ![](https://i.imgur.com/IfBYKPx.png)
 
 大家都按準備，房主就可以開始了。
 Everyone is ready, and the host can start the game now.
+
 ![](https://i.imgur.com/GdR8Cx5.png)
 
 再來就是 type 階段，要幫別人出他們的題目。出好題目一樣要準備就可以開始。
 Then comes the "type" phase, where players help each other with their respective tasks. To start typing, players need to get ready.
+
 ![](https://i.imgur.com/4wBpCjz.png)
 
 再來就是 play 階段，可以看到別人的題目。然後當你做出了你不能做的動作就按叉叉，但只要猜對就可以按圈圈。當淘汰人數到了指定的數量就結束了，會回到準備階段。
+Next is the play phase where you can see other players' questions. If you perform the action you are not allowed to do, you can click the "X" button. However, if you make a correct guess, you can click the "O" button. When the number of eliminated players reaches the specified amount, the game will end and return to the preparation phase.
+
 ![](https://i.imgur.com/T5Bz0nU.png)
